@@ -20,12 +20,12 @@ export default function Home() {
         <div className="grid">
           <a href="#" className="card">
             <h3>Apprenticeship &rarr;</h3>
-            <p>Work Opportunities.</p>
+            <p>Work Ready Opportunities.</p>
           </a>
 
           <a href="#" className="card">
             <h3>Founders Design Sprint &rarr;</h3>
-            <p>Self Employment</p>
+            <p>Self Employment/Entrepreneurship A Career</p>
           </a>
 
           <a
