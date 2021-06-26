@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Qraft <a href="qraftacademy.org">Academy</a>
+          Qraft <a href="#">Academy</a>
         </h1>
 
         <p className="description">
